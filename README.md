@@ -10,7 +10,7 @@ this repository for codewar challenges and
 ![Logo](https://assets-global.website-files.com/62462834c60df92621c6b5be/62462c29f3165b55ea6255ea_light-text-logo-vertical.svg)
 
 
-## solved challenges
+## solved challenges with Java
 
 - Array minus Array
 - Array sqrt
@@ -30,6 +30,10 @@ this repository for codewar challenges and
 - time readable
 - testing triangle build
 - tribonacci
+
+## solved challenges with Dart
+- hex to rgb
+- finding outlier number
 
 
 ## my codewars  profile
