@@ -29,7 +29,7 @@ this repository for codewar challenges and
 - sum odd or even
 - time readable
 - testing triangle build
-- tribonacci
+- [tribonacci](codeWar/tribonacci.java)
 
 ## solved challenges with Dart
 - hex to rgb
