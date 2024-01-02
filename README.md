@@ -12,28 +12,28 @@ this repository for codewar challenges and
 
 ## solved challenges with Java
 
-- Array minus Array
-- Array sqrt
-- spliting string
-- armstrong
-- bounce ball
-- count ones in binary
-- count zeros
-- create formatted phone numbers
-- highest scoring words
-- isogram
-- nutural multiples
-- odd occurs
-- spind words greater than 5 letters
-- sort odd Array
-- sum odd or even
-- time readable
-- testing triangle build
+- [Array minus Array](codeWar/ArrayMinusArray.java)
+- [Array sqrt](codeWar/Arraysqrt.java)
+- [spliting string](codeWar/SplitString.java)
+- [armstrong](codeWar/armstrong.java)
+- [bounce ball](codeWar/bounce_ball.java)
+- [count ones in binary](codeWar/countOnesInBin.java)
+- [count zeros](codeWar/countZeros.java)
+- [create formatted phone numbers](codeWar/createPhoneNumber.java)
+- [highest scoring words](codeWar/highest_socring_words.java)
+- [isogram](codeWar/isogram.java)
+- [natural multiples](CodeWar/nutrualmultiples.java)
+- [odd occurs](CodeWar/oddOccurs.java)
+- [spin words greater than 5 letters](CodeWar/reverseIf5words.java)
+- [sort odd Array](CodeWar/sortOddArray.java)
+- [sum odd or even](CodeWar/sumOddOrEven.java)
+- [time readable](CodeWar/timeReadable.java)
+- [testing triangle build](codeWar/triangleBuild.java)
 - [tribonacci](codeWar/tribonacci.java)
 
 ## solved challenges with Dart
-- hex to rgb
-- finding outlier number
+- [hex to rgb](codeWar-dart/hex_to_rgb.dart)
+- [finding outlier number](codeWar-dart/find_outlier.dart)
 
 
 ## my codewars  profile
