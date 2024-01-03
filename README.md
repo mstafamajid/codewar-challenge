@@ -34,7 +34,7 @@ this repository for codewar challenges and
 ## solved challenges with Dart
 - [hex to rgb](codeWar-dart/hex_to_rgb.dart)
 - [finding outlier number](codeWar-dart/find_outlier.dart)
-
+- [forming minimum number](codeWar-dart/forming_minimum_number.dart)
 
 ## my codewars  profile
 
