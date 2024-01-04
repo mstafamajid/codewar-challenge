@@ -30,7 +30,7 @@ this repository for codewar challenges and
 - [time readable](CodeWar/timeReadable.java)
 - [testing triangle build](codeWar/triangleBuild.java)
 - [tribonacci](codeWar/tribonacci.java)
-
+- [combination by binomial coefficient](codeWar-dart/combinition_BC.dart)
 ## solved challenges with Dart
 - [hex to rgb](codeWar-dart/hex_to_rgb.dart)
 - [finding outlier number](codeWar-dart/find_outlier.dart)
