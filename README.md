@@ -35,6 +35,7 @@ this repository for codewar challenges and
 - [hex to rgb](codeWar-dart/hex_to_rgb.dart)
 - [finding outlier number](codeWar-dart/find_outlier.dart)
 - [forming minimum number](codeWar-dart/forming_minimum_number.dart)
+- [count smileys face](codeWar-dart/count_smily_face.dart)
 
 ## my codewars  profile
 
